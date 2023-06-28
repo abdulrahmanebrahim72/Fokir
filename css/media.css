@@ -2,9 +2,6 @@
     header h1{
         font-size: 2rem;
     }
-    #About .aboutImg{
-        border: unset;
-    }
     nav .container{
         background-color: transparent !important;
         padding-left: 0;
@@ -14,6 +11,10 @@
         background-color: #3b3b3b !important;
         text-align: center;
         margin-top: 15px;
+    }
+    #Services .inner{
+        max-width: 390px;
+        margin: 0 auto;
     }
     #Testimonial figure{
         text-align: center;
